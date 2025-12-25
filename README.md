@@ -20,23 +20,11 @@ End the program.
 ```
 ## Program:
 (i) To find the L and U matrix
-```
-/*
-Program to find the L and U matrix.
-Developed by: TEAJESH R
-RegisterNumber: 25009069
-*/
-```
+
 <img width="389" height="193" alt="5" src="https://github.com/user-attachments/assets/3bb3d25e-1d0c-4b35-9340-69a47ebd9a33" />
 
 (ii) To find the LU Decomposition of a matrix
-```
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: TEAJESH R
-RegisterNumber: 25009069
-*/
-```
+
 <img width="346" height="245" alt="5 1" src="https://github.com/user-attachments/assets/cb83ae93-b083-4019-a805-33dff3ab02b2" />
 
 
